@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ar">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <style>
+      body { font: 1rem/1.8 system-ui, sans-serif; color: #252525; background: #fff; margin: 0; }
+      main { max-width: 52rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; direction: rtl; text-align: right; }
+      main > hr ~ * { direction: ltr; text-align: left; }
+      h1, h2 { line-height: 1.35; }
+      h1 { margin-top: 2rem; }
+      h2 { margin-top: 2rem; }
+      a { color: #245fba; overflow-wrap: anywhere; }
+      hr { border: 0; border-top: 1px solid #ddd; margin: 3rem 0; }
+    </style>
+  </head>
+  <body><main>{{ content }}</main></body>
+</html>
