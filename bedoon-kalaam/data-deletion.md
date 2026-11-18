@@ -6,7 +6,7 @@ permalink: /bedoon-kalaam/data-deletion/
 
 # طلب حذف البيانات من تطبيق «بدون كلام»
 
-آخر تحديث: 5 نوفمبر 2026
+آخر تحديث: 6 نوفمبر 2026
 
 لا يتطلب تطبيق «بدون كلام» إنشاء حساب. عناوين الأفلام والمسلسلات واللعب والمؤقت تعمل على جهازك؛ ولا نحتفظ بسجل لجولات اللعب على خادم خاص بنا.
 
@@ -18,7 +18,7 @@ permalink: /bedoon-kalaam/data-deletion/
 
 ## البيانات الموجودة على جهازك وفي المتاجر
 
-يحفظ التطبيق على جهازك حالة شراء ميزة «إزالة الإعلانات» كي تبقى متاحة دون اتصال. يمكنك إزالة نسخة التطبيق المحلية بحذف التطبيق أو مسح بياناته من إعدادات الجهاز. قد تبقى نسخة في النسخ الاحتياطية أو بيانات نقل الجهاز إلى أن تحذفها أو تنتهي صلاحيتها وفق إعدادات نظام التشغيل. حذف النسخة المحلية لا يلغي الشراء؛ ويمكنك استخدام «استعادة المشتريات» لاسترجاع الميزة من حساب المتجر.
+يحفظ التطبيق على جهازك حالة شراء ميزة «إزالة الإعلانات» وما إذا كان المستخدم دون 18 عامًا. لا يحفظ تاريخ الميلاد نفسه. يمكنك إزالة نسخة التطبيق المحلية بحذف التطبيق أو مسح بياناته من إعدادات الجهاز. قد تبقى نسخة في النسخ الاحتياطية أو بيانات نقل الجهاز إلى أن تحذفها أو تنتهي صلاحيتها وفق إعدادات نظام التشغيل. حذف النسخة المحلية لا يلغي الشراء؛ ويمكنك استخدام «استعادة المشتريات» لاسترجاع الميزة من حساب المتجر.
 
 تعالج Google AdMob بيانات الإعلانات والموافقة، ويعالج Google Play أو Apple App Store بيانات الدفع والشراء بحسب جهازك. لا نتحكم في سجلات هذه الخدمات ولا يمكننا حذفها نيابةً عنها. لإدارة تلك البيانات، راجع إعدادات الخصوصية والإعلانات وحساب المتجر على جهازك، وكذلك [سياسة خصوصية Google](https://policies.google.com/privacy) أو [سياسة خصوصية Apple](https://www.apple.com/legal/privacy/). لمزيد من التفاصيل، اقرأ [سياسة خصوصية التطبيق](/bedoon-kalaam/privacy-policy/).
 
@@ -26,7 +26,7 @@ permalink: /bedoon-kalaam/data-deletion/
 
 # Data deletion requests for Bedoon Kalaam
 
-Last updated: 5 November 2026
+Last updated: 6 November 2026
 
 Bedoon Kalaam does not require an account. The movie and TV titles, gameplay, and timer run on your device; we do not keep a record of your game rounds on a server we operate.
 
@@ -38,6 +38,6 @@ We use the information you provide to locate your correspondence and verify that
 
 ## Data on your device and with store providers
 
-The app saves your Remove Ads purchase status on your device so the feature remains available offline. You can remove the app's local copy by uninstalling the app or clearing its data in device settings. A copy may remain in device backups or transfer data until you delete it or it expires under your operating-system settings. Removing the local copy does not cancel the purchase; you can use Restore Purchases to recover the feature through your store account.
+The app saves your Remove Ads purchase status and whether the user is under 18 on your device. It does not save the birth date itself. You can remove the app's local copy by uninstalling the app or clearing its data in device settings. A copy may remain in device backups or transfer data until you delete it or it expires under your operating-system settings. Removing the local copy does not cancel the purchase; you can use Restore Purchases to recover the feature through your store account.
 
 Google AdMob processes advertising and consent data, and Google Play or Apple App Store processes payment and purchase data, depending on your device. We do not control these services' records and cannot delete them on their behalf. To manage that data, use your device's privacy and advertising settings and your store-account settings, and see the [Google Privacy Policy](https://policies.google.com/privacy) or [Apple Privacy Policy](https://www.apple.com/legal/privacy/). For more detail, read the [app privacy policy](/bedoon-kalaam/privacy-policy/).
